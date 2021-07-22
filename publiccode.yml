@@ -8,12 +8,12 @@ categories:
 description:
   en:
     features:
-      - Build shorteners with Google sheets
+      - Building shorteners with Google sheets
     genericName: vai_a
     localisedName: RShortener
     longDescription: |
-      A simple solution written in R and deployed as a Shiny application to make url shorteners for your organizations.
-      The only thing to do is to create a Google Sheet and edit it as in the provided example.
+      A simple solution written in R and deployed as a Shiny application to make url shorteners for your organization.
+      The only thing you need to do is to create a Google Sheet and edit it as in the provided example, then deploy the app and run it with your Shiny server.
       More informations on the steps needed in order to make new shorteners can be found in README.md.
       Obviously the shortener works better if you deploy the app at an easy (and short) subdomain of your organization.
     shortDescription: |
